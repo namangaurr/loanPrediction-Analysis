@@ -20,14 +20,22 @@ Property_Area	Urban/ Semi Urban/ Rural
 Loan_Status	Loan approved (Y/N)
 
 Libraries
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 
 Algorithms
 Logistic Regression
+
 Decision Tree
+
 Random Forest
+
 Extra Tress
 Best Model Accuracy: 81.00
